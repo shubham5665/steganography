@@ -1,0 +1,44 @@
+Steganography Project
+
+Steganography is the art of hiding information within other digital media, such as images or audio files, to ensure secure communication or protect sensitive data. This project demonstrates basic steganographic techniques with a focus on simplicity and usability.
+
+Features
+
+Hide text or files within images using Least Significant Bit (LSB) encoding.
+
+Retrieve hidden data from the stego file accurately.
+
+Option to encrypt data for enhanced security.
+
+Simple command-line interface for ease of use.
+
+How It Works
+
+Select a carrier file (e.g., an image).
+
+Embed your secret data into the carrier file using a steganographic algorithm.
+
+Save the resulting stego file.
+
+Use the decoding process to extract the hidden data when needed.
+
+Getting Started
+
+Clone the repository and install the required dependencies.
+
+Use the command-line tool to encode or decode data.
+
+Follow the instructions in the README.md for detailed steps.
+
+Use Cases
+
+Securely sharing confidential messages.
+
+Digital watermarking for copyright protection.
+
+Embedding metadata in media files.
+
+Contributing
+
+Contributions are welcome! Feel free to fork the repository and submit improvements.
+
